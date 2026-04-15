@@ -1,4 +1,4 @@
-# 📘 Data Structures in Python
+# 📘 Data Structures with Python
 
 > *Because “just theory” never helped anyone pass exams or crack interviews 😄*
 
